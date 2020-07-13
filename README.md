@@ -2,4 +2,4 @@
 MSc Thesis BH
 
 
-Git with my MSc Thesis and presentation - year 2019. 
+Repository with my MSc Thesis and presentation - year 2019. 
